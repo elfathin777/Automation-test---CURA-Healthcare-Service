@@ -54,5 +54,6 @@ Sebelum memulai, pastikan Anda memiliki hal-hal berikut terinstal di sistem Anda
 - Pastikan browser Chrome terinstal di sistem Anda, karena pengujian menggunakan ChromeDriver.
 - Jika Anda mengalami masalah dengan versi ChromeDriver, pastikan versi ChromeDriver sesuai dengan versi Chrome yang terinstal.
 
-## Video Hasil Automation Testing
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/ZDZSzaTW8DE)
+## Automation Testing
+* login test
+  [![Watch the video](https://youtu.be/ZDZSzaTW8DE)
