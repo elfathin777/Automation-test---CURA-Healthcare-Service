@@ -17,7 +17,11 @@ Sebelum memulai, pastikan Anda memiliki hal-hal berikut terinstal di sistem Anda
 
    ```bash
    https://github.com/elfathin777/FinalTask_Jubelio_QA.git
+   ```
+   ```bash
    git clone https://github.com/elfathin777/FinalTask_Jubelio_QA.git
+   ```
+   ``` bash
    cd FinalTask_Jubelio_QA
    ```
 
@@ -31,7 +35,7 @@ Sebelum memulai, pastikan Anda memiliki hal-hal berikut terinstal di sistem Anda
 
    Ini akan menginstal `selenium-webdriver`, `mocha`, `chromedriver`, dan dependensi lainnya yang tercantum dalam `package.json`.
 
-## Menjalankan Pengujian
+## Menjalankan Automation Testing
 
 1. **Jalankan Pengujian**
 
@@ -39,14 +43,16 @@ Sebelum memulai, pastikan Anda memiliki hal-hal berikut terinstal di sistem Anda
 
    ```bash
    node TestSelenium/loginCase
-   node TestSelenium/inventory
    ```
 
 2. **Hasil Pengujian**
 
-   Setelah pengujian selesai, Anda akan melihat hasilnya di terminal. Pastikan semua tes lulus tanpa kesalahan.
+   Setelah pengujian selesai, Anda akan melihat hasilnya di terminal.
 
 ## Catatan
 
 - Pastikan browser Chrome terinstal di sistem Anda, karena pengujian menggunakan ChromeDriver.
 - Jika Anda mengalami masalah dengan versi ChromeDriver, pastikan versi ChromeDriver sesuai dengan versi Chrome yang terinstal.
+
+## Video Hasil Automation Testing
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/ZDZSzaTW8DE)
