@@ -56,4 +56,4 @@ Sebelum memulai, pastikan Anda memiliki hal-hal berikut terinstal di sistem Anda
 
 ## Automation Testing
 * login test
-  [![Watch the video](https://youtu.be/ZDZSzaTW8DE)
+  ![Watch the video](https://youtu.be/ZDZSzaTW8DE)
